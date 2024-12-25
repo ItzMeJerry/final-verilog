@@ -1,0 +1,149 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'TimerRefresh:TFR|CLKout'
+Slack : -29.239
+TNS   : -2597.078
+
+Type  : Slow 1200mV 85C Model Setup 'CLK'
+Slack : -4.513
+TNS   : -297.122
+
+Type  : Slow 1200mV 85C Model Setup 'Timer25:T25|CLKout'
+Slack : -2.553
+TNS   : -16.636
+
+Type  : Slow 1200mV 85C Model Setup 'Timer2:T2|CLKout'
+Slack : -1.354
+TNS   : -1.354
+
+Type  : Slow 1200mV 85C Model Hold 'CLK'
+Slack : -0.082
+TNS   : -0.082
+
+Type  : Slow 1200mV 85C Model Hold 'TimerRefresh:TFR|CLKout'
+Slack : 0.414
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Timer25:T25|CLKout'
+Slack : 1.705
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Timer2:T2|CLKout'
+Slack : 1.745
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -118.986
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'TimerRefresh:TFR|CLKout'
+Slack : -1.487
+TNS   : -346.471
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Timer25:T25|CLKout'
+Slack : -1.487
+TNS   : -10.409
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Timer2:T2|CLKout'
+Slack : -1.487
+TNS   : -1.487
+
+Type  : Slow 1200mV 0C Model Setup 'TimerRefresh:TFR|CLKout'
+Slack : -26.512
+TNS   : -2444.105
+
+Type  : Slow 1200mV 0C Model Setup 'CLK'
+Slack : -4.266
+TNS   : -278.554
+
+Type  : Slow 1200mV 0C Model Setup 'Timer25:T25|CLKout'
+Slack : -2.452
+TNS   : -15.799
+
+Type  : Slow 1200mV 0C Model Setup 'Timer2:T2|CLKout'
+Slack : -1.161
+TNS   : -1.161
+
+Type  : Slow 1200mV 0C Model Hold 'CLK'
+Slack : -0.012
+TNS   : -0.012
+
+Type  : Slow 1200mV 0C Model Hold 'TimerRefresh:TFR|CLKout'
+Slack : 0.340
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Timer2:T2|CLKout'
+Slack : 1.609
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Timer25:T25|CLKout'
+Slack : 1.633
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -118.986
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'TimerRefresh:TFR|CLKout'
+Slack : -1.487
+TNS   : -359.825
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Timer25:T25|CLKout'
+Slack : -1.487
+TNS   : -10.409
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Timer2:T2|CLKout'
+Slack : -1.487
+TNS   : -1.487
+
+Type  : Fast 1200mV 0C Model Setup 'TimerRefresh:TFR|CLKout'
+Slack : -11.895
+TNS   : -1008.315
+
+Type  : Fast 1200mV 0C Model Setup 'CLK'
+Slack : -1.353
+TNS   : -78.719
+
+Type  : Fast 1200mV 0C Model Setup 'Timer25:T25|CLKout'
+Slack : -0.522
+TNS   : -3.045
+
+Type  : Fast 1200mV 0C Model Setup 'Timer2:T2|CLKout'
+Slack : -0.026
+TNS   : -0.026
+
+Type  : Fast 1200mV 0C Model Hold 'CLK'
+Slack : -0.177
+TNS   : -0.454
+
+Type  : Fast 1200mV 0C Model Hold 'TimerRefresh:TFR|CLKout'
+Slack : 0.146
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Timer25:T25|CLKout'
+Slack : 0.643
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Timer2:T2|CLKout'
+Slack : 0.725
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -86.422
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'TimerRefresh:TFR|CLKout'
+Slack : -1.000
+TNS   : -233.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Timer25:T25|CLKout'
+Slack : -1.000
+TNS   : -7.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Timer2:T2|CLKout'
+Slack : -1.000
+TNS   : -1.000
+
+------------------------------------------------------------
